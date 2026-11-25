@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-01",
+  "scena": "jesien-rondo-deszcz",
+  "typ_okazji": "sezon",
+  "id_pytania": 2563,
+  "link": "https://jazda.io/testy/wszystkie-pytania/2563",
+  "blog": "https://jazda.io/blog/pierwszenstwo-na-rondzie-kiedy-musisz-ustapic",
+  "pytanie": "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na skrzyżowaniu o ruchu okrężnym?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "Przed rondem stoi A-7 „ustąp pierwszeństwa” razem z C-12. Pierwszeństwo ma ten, kto już jedzie po rondzie.",
+  "podstawa": "§ 36 ust. 2 rozporządzenia o znakach",
+  "numer_katalogu": 9649,
+  "punkty": 3,
+  "utwor": {
+    "plik": "kiss-of-spring.mp3",
+    "tytul": "Kiss Of Spring",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-25T23:58:44+00:00"
+}

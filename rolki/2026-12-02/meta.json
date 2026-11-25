@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-02",
+  "scena": "zwykly-osiedle",
+  "typ_okazji": "sezon",
+  "id_pytania": 1159,
+  "link": "https://jazda.io/testy/wszystkie-pytania/1159",
+  "blog": "https://jazda.io/blog/strefa-zamieszkania-zawsze-pierwszenstwo-pieszych-kierowca",
+  "pytanie": "Czy na drodze za tym znakiem zawsze masz obowiązek ustąpić pierwszeństwa pieszym?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "To znak D-40, strefa zamieszkania. Pieszy może iść całą szerokością drogi i ma pierwszeństwo przed autem.",
+  "podstawa": "art. 11 ust. 5 PoRD, znak D-40",
+  "numer_katalogu": 6240,
+  "punkty": 2,
+  "utwor": {
+    "plik": "lazy-river.mp3",
+    "tytul": "Lazy River",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-25T23:58:45+00:00"
+}

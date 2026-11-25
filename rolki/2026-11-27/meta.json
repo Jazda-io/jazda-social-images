@@ -1,0 +1,29 @@
+{
+  "data": "2026-11-27",
+  "scena": "black-friday",
+  "typ_okazji": "swieto",
+  "id_pytania": 326,
+  "link": "https://jazda.io/testy/wszystkie-pytania/326",
+  "blog": "https://jazda.io/blog/otwarte-drzwi-kierowcy-przepisy",
+  "pytanie": "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "Otwarte drzwi kierowcy wystają poza auto. Mogą utrudnić przejazd i zająć miejsce, na którym ktoś chce zaparkować.",
+  "podstawa": "art. 45 ust. 1 pkt 3 PoRD",
+  "numer_katalogu": 2409,
+  "punkty": 2,
+  "utwor": {
+    "plik": "stocking-up-on-savings.mp3",
+    "tytul": "Stocking Up On Savings",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-25T23:58:42+00:00"
+}

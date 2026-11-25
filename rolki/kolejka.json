@@ -1,0 +1,51 @@
+{
+  "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher.",
+  "zaktualizowano": "2026-11-25T23:58:45+00:00",
+  "liczone_od": "2026-11-26",
+  "zapas_dni": 7,
+  "ostatnia_gotowa": "2026-12-02",
+  "rolki": [
+    {
+      "data": "2026-11-27",
+      "status": "gotowa",
+      "scena": "black-friday",
+      "id_pytania": 326,
+      "katalog": "rolki/2026-11-27/"
+    },
+    {
+      "data": "2026-11-28",
+      "status": "gotowa",
+      "scena": "jesien-las",
+      "id_pytania": 3392,
+      "katalog": "rolki/2026-11-28/"
+    },
+    {
+      "data": "2026-11-29",
+      "status": "gotowa",
+      "scena": "jesien-latarnie",
+      "id_pytania": 1103,
+      "katalog": "rolki/2026-11-29/"
+    },
+    {
+      "data": "2026-11-30",
+      "status": "gotowa",
+      "scena": "andrzejki",
+      "id_pytania": 3196,
+      "katalog": "rolki/2026-11-30/"
+    },
+    {
+      "data": "2026-12-01",
+      "status": "gotowa",
+      "scena": "jesien-rondo-deszcz",
+      "id_pytania": 2563,
+      "katalog": "rolki/2026-12-01/"
+    },
+    {
+      "data": "2026-12-02",
+      "status": "gotowa",
+      "scena": "zwykly-osiedle",
+      "id_pytania": 1159,
+      "katalog": "rolki/2026-12-02/"
+    }
+  ]
+}
