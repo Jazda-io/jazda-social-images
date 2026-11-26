@@ -1,0 +1,29 @@
+{
+  "data": "2026-11-26",
+  "scena": "jesien-park",
+  "typ_okazji": "sezon",
+  "id_pytania": 3128,
+  "link": "https://jazda.io/testy/wszystkie-pytania/3128",
+  "blog": "https://jazda.io/blog/znak-a-25-wyprzedzanie-rowerzysty",
+  "pytanie": "Czy za tym znakiem dozwolone jest wyprzedzanie rowerzysty?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "Znak A-25 ostrzega przed spadającymi odłamkami skalnymi. Niczego nie zakazuje, więc rowerzystę wyprzedzisz, zachowując bezpieczny odstęp.",
+  "podstawa": "§ 7 ust. 7 rozporządzenia o znakach",
+  "numer_katalogu": 11402,
+  "punkty": 3,
+  "utwor": {
+    "plik": "spring-from-the-four-seasons-by-vivaldi.mp3",
+    "tytul": "Spring (From The Four Seasons By Vivaldi)",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:03:17+00:00"
+}

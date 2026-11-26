@@ -1,10 +1,18 @@
 {
-  "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher.",
-  "zaktualizowano": "2026-11-25T23:58:45+00:00",
+  "publikacja": "rolki",
+  "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher. Pole publikacja: rolki albo v1 (przełącza właściciel komendą TRYB u Publishera).",
+  "zaktualizowano": "2026-11-26T00:03:18+00:00",
   "liczone_od": "2026-11-26",
-  "zapas_dni": 7,
-  "ostatnia_gotowa": "2026-12-02",
+  "zapas_dni": 9,
+  "ostatnia_gotowa": "2026-12-04",
   "rolki": [
+    {
+      "data": "2026-11-26",
+      "status": "gotowa",
+      "scena": "jesien-park",
+      "id_pytania": 3128,
+      "katalog": "rolki/2026-11-26/"
+    },
     {
       "data": "2026-11-27",
       "status": "gotowa",
@@ -46,6 +54,20 @@
       "scena": "zwykly-osiedle",
       "id_pytania": 1159,
       "katalog": "rolki/2026-12-02/"
+    },
+    {
+      "data": "2026-12-03",
+      "status": "gotowa",
+      "scena": "zwykly-miasto",
+      "id_pytania": 9,
+      "katalog": "rolki/2026-12-03/"
+    },
+    {
+      "data": "2026-12-04",
+      "status": "gotowa",
+      "scena": "barborka",
+      "id_pytania": 535,
+      "katalog": "rolki/2026-12-04/"
     }
   ]
 }
