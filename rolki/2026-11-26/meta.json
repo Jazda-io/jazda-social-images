@@ -7,8 +7,8 @@
   "blog": "https://jazda.io/blog/znak-a-25-wyprzedzanie-rowerzysty",
   "pytanie": "Czy za tym znakiem dozwolone jest wyprzedzanie rowerzysty?",
   "poprawna_odpowiedz": "Tak",
-  "uzasadnienie": "Znak A-25 ostrzega przed spadającymi odłamkami skalnymi. Niczego nie zakazuje, więc rowerzystę wyprzedzisz, zachowując bezpieczny odstęp.",
-  "podstawa": "§ 7 ust. 7 rozporządzenia o znakach",
+  "uzasadnienie": "Znak A-25 ostrzega przed spadającymi odłamkami skalnymi. Niczego nie zakazuje, więc możesz wyprzedzić rowerzystę. Zachowaj szczególną ostrożność i co najmniej 1 m odstępu.",
+  "podstawa": "§ 7 ust. 7 i § 3 ust. 1 rozporządzenia o znakach, art. 24 ust. 2 PoRD",
   "numer_katalogu": 11402,
   "punkty": 3,
   "utwor": {
@@ -23,8 +23,8 @@
     ]
   },
   "lektor": "ElevenLabs eleven_v3, głos bloga, teksty z ekranu rolki",
-  "dlugosc_s": 39.67,
+  "dlugosc_s": 43.04,
   "format": "1080x1920 H.264 + AAC, faststart",
   "okladka": "klatka 0",
-  "wygenerowano": "2026-11-26T10:24:44+00:00"
+  "wygenerowano": "2026-11-26T10:40:18+00:00"
 }
