@@ -1,17 +1,20 @@
 {
   "publikacja": "rolki",
   "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher. Pole publikacja: rolki albo v1 (przełącza właściciel komendą TRYB u Publishera).",
-  "zaktualizowano": "2026-11-26T10:59:55+00:00",
-  "liczone_od": "2026-11-26",
-  "zapas_dni": 15,
+  "zaktualizowano": "2026-11-26T15:10:04+00:00",
+  "liczone_od": "2026-11-27",
+  "zapas_dni": 14,
   "ostatnia_gotowa": "2026-12-10",
   "rolki": [
     {
       "data": "2026-11-26",
-      "status": "gotowa",
+      "status": "opublikowana",
       "scena": "jesien-park",
       "id_pytania": 3128,
-      "katalog": "rolki/2026-11-26/"
+      "katalog": "rolki/2026-11-26/",
+      "opublikowano": "2026-11-26T15:06:34Z",
+      "instagram": "https://www.instagram.com/reel/DgNYwRuhpHB/",
+      "tiktok": "v_inbox_file~v2.7712496736522029078"
     },
     {
       "data": "2026-11-27",
