@@ -8,7 +8,7 @@
   "pytanie": "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na skrzyżowaniu o ruchu okrężnym?",
   "poprawna_odpowiedz": "Tak",
   "uzasadnienie": "Przed rondem stoi A-7 „ustąp pierwszeństwa” razem z C-12. Pierwszeństwo ma ten, kto już jedzie po rondzie.",
-  "podstawa": "§ 36 ust. 2 rozporządzenia o znakach",
+  "podstawa": "§ 36 ust. 2 rozporządzenia o znakach, art. 25 ust. 1 PoRD",
   "numer_katalogu": 9649,
   "punkty": 3,
   "utwor": {
@@ -25,5 +25,5 @@
   "dlugosc_s": 42.5,
   "format": "1080x1920 H.264 + AAC, faststart",
   "okladka": "klatka 0",
-  "wygenerowano": "2026-11-26T00:12:57+00:00"
+  "wygenerowano": "2026-11-26T00:32:52+00:00"
 }

@@ -8,7 +8,7 @@
   "pytanie": "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 1,5 m?",
   "poprawna_odpowiedz": "Tak",
   "uzasadnienie": "Stając na chodniku, zostawiasz pieszym co najmniej 1,5 m chodnika. Auto nie może też utrudniać im ruchu.",
-  "podstawa": "art. 47 ust. 1 pkt 2 PoRD",
+  "podstawa": "art. 47 ust. 1 pkt 1 i 2 PoRD",
   "numer_katalogu": 6166,
   "punkty": 2,
   "utwor": {
@@ -25,5 +25,5 @@
   "dlugosc_s": 42.5,
   "format": "1080x1920 H.264 + AAC, faststart",
   "okladka": "klatka 0",
-  "wygenerowano": "2026-11-26T00:12:56+00:00"
+  "wygenerowano": "2026-11-26T00:32:51+00:00"
 }

@@ -8,7 +8,7 @@
   "pytanie": "Czy widoczny znak ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu pojazdów?",
   "poprawna_odpowiedz": "Tak",
   "uzasadnienie": "To znak A-11a „próg zwalniający”. Ostrzega o wypukłości na jezdni, która ma spowolnić ruch pojazdów.",
-  "podstawa": "§ 7 ust. 2 rozporządzenia o znakach",
+  "podstawa": "§ 7 ust. 2 i § 3 ust. 4 rozporządzenia o znakach",
   "numer_katalogu": 11142,
   "punkty": 2,
   "utwor": {
@@ -25,5 +25,5 @@
   "dlugosc_s": 42.5,
   "format": "1080x1920 H.264 + AAC, faststart",
   "okladka": "klatka 0",
-  "wygenerowano": "2026-11-26T00:13:01+00:00"
+  "wygenerowano": "2026-11-26T00:32:56+00:00"
 }

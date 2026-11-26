@@ -1,7 +1,7 @@
 {
   "publikacja": "rolki",
   "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher. Pole publikacja: rolki albo v1 (przełącza właściciel komendą TRYB u Publishera).",
-  "zaktualizowano": "2026-11-26T00:13:01+00:00",
+  "zaktualizowano": "2026-11-26T00:32:56+00:00",
   "liczone_od": "2026-11-26",
   "zapas_dni": 15,
   "ostatnia_gotowa": "2026-12-10",
