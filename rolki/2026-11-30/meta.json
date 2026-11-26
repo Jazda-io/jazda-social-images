@@ -7,7 +7,7 @@
   "blog": "https://jazda.io/blog/alkohol-dzien-po-kiedy-mozna-jechac",
   "pytanie": "Czy rano powinieneś zrezygnować z kierowania pojazdem, jeśli wieczorem poprzedniego dnia spożyłeś dużą ilość alkoholu?",
   "poprawna_odpowiedz": "Tak",
-  "uzasadnienie": "Po dużej ilości alkoholu rano możesz mieć go jeszcze we krwi. Wtedy nie wolno prowadzić.",
+  "uzasadnienie": "Po dużej ilości alkoholu rano możesz być jeszcze w stanie po użyciu alkoholu. Wtedy nie wolno prowadzić.",
   "podstawa": "art. 45 ust. 1 pkt 1 PoRD, art. 46 ust. 2 ustawy o wychowaniu w trzeźwości",
   "numer_katalogu": 11510,
   "punkty": 2,
@@ -23,8 +23,8 @@
     ]
   },
   "lektor": "ElevenLabs eleven_v3, głos bloga, teksty z ekranu rolki",
-  "dlugosc_s": 44.98,
+  "dlugosc_s": 37.58,
   "format": "1080x1920 H.264 + AAC, faststart",
   "okladka": "klatka 0",
-  "wygenerowano": "2026-11-26T02:19:50+00:00"
+  "wygenerowano": "2026-11-26T10:58:32+00:00"
 }
