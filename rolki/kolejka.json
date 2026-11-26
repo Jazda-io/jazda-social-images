@@ -1,10 +1,10 @@
 {
   "publikacja": "rolki",
   "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher. Pole publikacja: rolki albo v1 (przełącza właściciel komendą TRYB u Publishera).",
-  "zaktualizowano": "2026-11-26T00:03:18+00:00",
+  "zaktualizowano": "2026-11-26T00:04:09+00:00",
   "liczone_od": "2026-11-26",
-  "zapas_dni": 9,
-  "ostatnia_gotowa": "2026-12-04",
+  "zapas_dni": 10,
+  "ostatnia_gotowa": "2026-12-05",
   "rolki": [
     {
       "data": "2026-11-26",
@@ -68,6 +68,13 @@
       "scena": "barborka",
       "id_pytania": 535,
       "katalog": "rolki/2026-12-04/"
+    },
+    {
+      "data": "2026-12-05",
+      "status": "gotowa",
+      "scena": "jesien-park",
+      "id_pytania": 57,
+      "katalog": "rolki/2026-12-05/"
     }
   ]
 }

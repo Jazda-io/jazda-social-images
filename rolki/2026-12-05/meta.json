@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-05",
+  "scena": "jesien-park",
+  "typ_okazji": "sezon",
+  "id_pytania": 57,
+  "link": "https://jazda.io/testy/wszystkie-pytania/57",
+  "blog": "https://jazda.io/blog/znak-ostrzegawczy-na-drodze-niebezpieczenstwo",
+  "pytanie": "Czy umieszczony na tablicy znak ostrzega Cię o miejscu na drodze, w którym występuje lub może występować niebezpieczeństwo?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "Na tablicy świeci znak A-15 „śliska jezdnia”. Znaki ostrzegawcze uprzedzają o miejscach, w których występuje lub może występować niebezpieczeństwo.",
+  "podstawa": "§ 3 ust. 1 i § 7 ust. 6 rozporządzenia o znakach",
+  "numer_katalogu": 974,
+  "punkty": 2,
+  "utwor": {
+    "plik": "rise-up.mp3",
+    "tytul": "Rise Up",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:04:09+00:00"
+}
