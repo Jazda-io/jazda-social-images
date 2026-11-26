@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-09",
+  "scena": "jesien-rondo-deszcz",
+  "typ_okazji": "sezon",
+  "id_pytania": 1114,
+  "link": "https://jazda.io/testy/wszystkie-pytania/1114",
+  "blog": "https://jazda.io/blog/rondo-jazda-prosto-z-lewego-pasa",
+  "pytanie": "Czy na tym skrzyżowaniu możesz jechać prosto z lewego pasa ruchu?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "Strzałka na lewym pasie łączy skręt w lewo i jazdę na wprost. Z tego pasa wolno Ci pojechać prosto.",
+  "podstawa": "§ 87 ust. 1 rozporządzenia o znakach",
+  "numer_katalogu": 6179,
+  "punkty": 2,
+  "utwor": {
+    "plik": "be-happy-instrumental.mp3",
+    "tytul": "Be Happy (Instrumental)",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:13:01+00:00"
+}

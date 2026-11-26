@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-06",
+  "scena": "mikolajki",
+  "typ_okazji": "swieto",
+  "id_pytania": 120,
+  "link": "https://jazda.io/testy/wszystkie-pytania/120",
+  "blog": "https://jazda.io/blog/znak-a32-sliska-nawierzchnia",
+  "pytanie": "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?",
+  "poprawna_odpowiedz": "Nie",
+  "uzasadnienie": "To znak A-32 „oszronienie jezdni”. Ostrzega przed szronem albo gołoledzią na jezdni, a nie przed opadami śniegu.",
+  "podstawa": "§ 12 ust. 2 rozporządzenia o znakach",
+  "numer_katalogu": 1202,
+  "punkty": 2,
+  "utwor": {
+    "plik": "nutcracker-sweet.mp3",
+    "tytul": "Nutcracker Sweet",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:13:00+00:00"
+}
