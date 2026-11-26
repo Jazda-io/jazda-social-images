@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-07",
+  "scena": "jesien-las",
+  "typ_okazji": "sezon",
+  "id_pytania": 2319,
+  "link": "https://jazda.io/testy/wszystkie-pytania/2319",
+  "blog": "https://jazda.io/blog/tylne-swiatla-przeciwmglowe-kiedy-wlaczac",
+  "pytanie": "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?",
+  "poprawna_odpowiedz": "Nie",
+  "uzasadnienie": "Tylne światła przeciwmgłowe wolno włączyć dopiero, gdy mgła ogranicza widoczność do mniej niż 50 m. Przy 100 m jeszcze nie.",
+  "podstawa": "art. 30 ust. 3 PoRD",
+  "numer_katalogu": 8238,
+  "punkty": 1,
+  "utwor": {
+    "plik": "ta-na-na.mp3",
+    "tytul": "Ta Na Na",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:32:54+00:00"
+}

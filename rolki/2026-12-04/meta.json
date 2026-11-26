@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-04",
+  "scena": "barborka",
+  "typ_okazji": "swieto",
+  "id_pytania": 535,
+  "link": "https://jazda.io/testy/wszystkie-pytania/535",
+  "blog": "https://jazda.io/blog/odstep-przy-wymijaniu-samochodu-ciezarowego",
+  "pytanie": "Czy w tej sytuacji masz prawo zachować dowolny odstęp od wymijanego samochodu ciężarowego?",
+  "poprawna_odpowiedz": "Nie",
+  "uzasadnienie": "Przy wymijaniu zachowujesz bezpieczny odstęp od wymijanego pojazdu. W razie potrzeby zjeżdżasz bliżej prawej krawędzi i zwalniasz.",
+  "podstawa": "art. 23 ust. 1 pkt 1 PoRD",
+  "numer_katalogu": 3159,
+  "punkty": 2,
+  "utwor": {
+    "plik": "perfect-instrumental.mp3",
+    "tytul": "Perfect (Instrumental)",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:32:53+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "publikacja": "rolki",
+  "opis": "Kolejka rolek v3. Paczka na dzień: rolki/<data>/. Statusy: gotowa, opublikowana, pominieta. Rolki robi rutyna Claude (jazda-excel/social/v3/RUTYNA-CLAUDE.md), publikuje Publisher. Pole publikacja: rolki albo v1 (przełącza właściciel komendą TRYB u Publishera).",
+  "zaktualizowano": "2026-11-26T00:32:56+00:00",
+  "liczone_od": "2026-11-26",
+  "zapas_dni": 15,
+  "ostatnia_gotowa": "2026-12-10",
+  "rolki": [
+    {
+      "data": "2026-11-26",
+      "status": "gotowa",
+      "scena": "jesien-park",
+      "id_pytania": 3128,
+      "katalog": "rolki/2026-11-26/"
+    },
+    {
+      "data": "2026-11-27",
+      "status": "gotowa",
+      "scena": "black-friday",
+      "id_pytania": 326,
+      "katalog": "rolki/2026-11-27/"
+    },
+    {
+      "data": "2026-11-28",
+      "status": "gotowa",
+      "scena": "jesien-las",
+      "id_pytania": 3392,
+      "katalog": "rolki/2026-11-28/"
+    },
+    {
+      "data": "2026-11-29",
+      "status": "gotowa",
+      "scena": "jesien-latarnie",
+      "id_pytania": 1103,
+      "katalog": "rolki/2026-11-29/"
+    },
+    {
+      "data": "2026-11-30",
+      "status": "gotowa",
+      "scena": "andrzejki",
+      "id_pytania": 3196,
+      "katalog": "rolki/2026-11-30/"
+    },
+    {
+      "data": "2026-12-01",
+      "status": "gotowa",
+      "scena": "jesien-rondo-deszcz",
+      "id_pytania": 2563,
+      "katalog": "rolki/2026-12-01/"
+    },
+    {
+      "data": "2026-12-02",
+      "status": "gotowa",
+      "scena": "zwykly-osiedle",
+      "id_pytania": 1159,
+      "katalog": "rolki/2026-12-02/"
+    },
+    {
+      "data": "2026-12-03",
+      "status": "gotowa",
+      "scena": "zwykly-miasto",
+      "id_pytania": 9,
+      "katalog": "rolki/2026-12-03/"
+    },
+    {
+      "data": "2026-12-04",
+      "status": "gotowa",
+      "scena": "barborka",
+      "id_pytania": 535,
+      "katalog": "rolki/2026-12-04/"
+    },
+    {
+      "data": "2026-12-05",
+      "status": "gotowa",
+      "scena": "jesien-park",
+      "id_pytania": 57,
+      "katalog": "rolki/2026-12-05/"
+    },
+    {
+      "data": "2026-12-06",
+      "status": "gotowa",
+      "scena": "mikolajki",
+      "id_pytania": 120,
+      "katalog": "rolki/2026-12-06/"
+    },
+    {
+      "data": "2026-12-07",
+      "status": "gotowa",
+      "scena": "jesien-las",
+      "id_pytania": 2319,
+      "katalog": "rolki/2026-12-07/"
+    },
+    {
+      "data": "2026-12-08",
+      "status": "gotowa",
+      "scena": "jesien-latarnie",
+      "id_pytania": 2336,
+      "katalog": "rolki/2026-12-08/"
+    },
+    {
+      "data": "2026-12-09",
+      "status": "gotowa",
+      "scena": "jesien-rondo-deszcz",
+      "id_pytania": 1114,
+      "katalog": "rolki/2026-12-09/"
+    },
+    {
+      "data": "2026-12-10",
+      "status": "gotowa",
+      "scena": "zwykly-osiedle",
+      "id_pytania": 3042,
+      "katalog": "rolki/2026-12-10/"
+    }
+  ]
+}

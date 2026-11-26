@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-10",
+  "scena": "zwykly-osiedle",
+  "typ_okazji": "sezon",
+  "id_pytania": 3042,
+  "link": "https://jazda.io/testy/wszystkie-pytania/3042",
+  "blog": "https://jazda.io/blog/znak-a-11a-prog-zwalniajacy-na-jezdni-am",
+  "pytanie": "Czy widoczny znak ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu pojazdów?",
+  "poprawna_odpowiedz": "Tak",
+  "uzasadnienie": "To znak A-11a „próg zwalniający”. Ostrzega o wypukłości na jezdni, która ma spowolnić ruch pojazdów.",
+  "podstawa": "§ 7 ust. 2 i § 3 ust. 4 rozporządzenia o znakach",
+  "numer_katalogu": 11142,
+  "punkty": 2,
+  "utwor": {
+    "plik": "reflections-instrumental.mp3",
+    "tytul": "Reflections (Instrumental)",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:32:56+00:00"
+}

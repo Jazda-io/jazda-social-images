@@ -1,0 +1,29 @@
+{
+  "data": "2026-12-03",
+  "scena": "zwykly-miasto",
+  "typ_okazji": "sezon",
+  "id_pytania": 9,
+  "link": "https://jazda.io/testy/wszystkie-pytania/9",
+  "blog": "https://jazda.io/blog/skret-w-prawo-na-zielonej-strzalce-a-piesi-na-przejsciu",
+  "pytanie": "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?",
+  "poprawna_odpowiedz": "Nie",
+  "uzasadnienie": "Zielona strzałka przy czerwonym pozwala skręcić dopiero po zatrzymaniu się przed sygnalizatorem i tylko wtedy, gdy nikomu nie utrudnisz ruchu.",
+  "podstawa": "§ 96 ust. 1 i 3 rozporządzenia o znakach",
+  "numer_katalogu": 475,
+  "punkty": 3,
+  "utwor": {
+    "plik": "march-madness.mp3",
+    "tytul": "March Madness",
+    "autor": null,
+    "zrodlo": "Meta Sound Collection",
+    "licencja": "Meta Sound Collection - do uzytku na Facebooku i Instagramie, bez atrybucji",
+    "platformy": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "dlugosc_s": 42.5,
+  "format": "1080x1920 H.264 + AAC, faststart",
+  "okladka": "klatka 0",
+  "wygenerowano": "2026-11-26T00:32:53+00:00"
+}
