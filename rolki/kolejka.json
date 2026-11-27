@@ -114,5 +114,18 @@
       "id_pytania": 3042,
       "katalog": "rolki/2026-12-10/"
     }
-  ]
+  ],
+  "harmonogram": {
+    "dni_tygodnia_rolek": [
+      0,
+      2,
+      4
+    ],
+    "daty_rolek": [
+      "2026-11-27",
+      "2026-11-29"
+    ],
+    "daty_v1": [],
+    "opis": "Od 27.11.2026: rolki z lektorem w pon, sr, pt (0=pon) i w daty_rolek; w pozostale dni zwykly post v1 od Social. 29.11 (nd) jednorazowo rolka. Rolki z kolejki w dni v1 Publisher oznacza pominieta."
+  }
 }
